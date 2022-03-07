@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "447172754259",
+    "project_id": "go-rider-c4486",
+    "storage_bucket": "go-rider-c4486.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447172754259:android:cfa13d9512434feca43fa6",
+        "android_client_info": {
+          "package_name": "com.example.gorider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447172754259-pmpc3082alcl000238kcb7prad1oifjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gorider",
+            "certificate_hash": "c77587a24b0b75b21cadf67e65f51f0abd06c48d"
+          }
+        },
+        {
+          "client_id": "447172754259-979j3b99qfcssavlrovhtcpgclvv5shg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSg67nGtng2S78XiEq9zZAf7445fpZdnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447172754259-979j3b99qfcssavlrovhtcpgclvv5shg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
